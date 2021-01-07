@@ -14,6 +14,14 @@
 </head>
 <body>
 
+<?php 
+// $filepath = realpath(dirname(__FILE__));
+// include_once ($filepath.'./classes/Admin.php');
+
+require './classes/Admin.php';
+
+?>
+
     <div class="main">
 
 
